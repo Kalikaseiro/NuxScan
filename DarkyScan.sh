@@ -210,7 +210,7 @@ elif [ $atacar = 8 ]; then
  fi
 fi
 
-whois $alvo > /dev/null
+whois $alvo 
 
 
 # SIM USO ECHO E NÃO PRINTF ANIMAL.
